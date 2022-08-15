@@ -7,7 +7,7 @@
 
 ## yar2v-ukoreh
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ni-jj/ukoreh.git)https://heroku.com/deploy?template=https://github.com/ni-jj/ukoreh.git
 
 ## 注意事项
 ### ukoreh上部署yar2v
